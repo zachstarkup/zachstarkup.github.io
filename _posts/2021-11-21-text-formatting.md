@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "2020"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: 2020-1.JPG
 ---
 
 # Markdown Support
