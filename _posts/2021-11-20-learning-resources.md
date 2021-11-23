@@ -7,6 +7,12 @@ tags: [documentation,sample]
 image: 2021-1.jpg
 ---
 
+![image](https://github.com/zachstarkup/zachstarkup.github.io/assets/img/2021-2.jpg)
+
+![image](https://github.com/zachstarkup/zachstarkup.github.io/assets/img/2021-3.jpg)
+
+![image](https://github.com/zachstarkup/zachstarkup.github.io/assets/img/2021-4.jpg)
+
 2021的我们，最重要的就是我们终于有了自己的家吧～你心心念念的townhouse终于在我们不屑努力下，连续看了好几个月的open house，在wayen的帮助下拿到了我们人生的第一个属于自己的castle哈哈哈。虽然图文有点不符，但是中间这几张是我们当时看的照片，也有我们最开始搬进去的照片，空空的，但是我们两个会一起把这个家再丰富丰富的～争取搞成别人家那样。。这个小区真的很漂亮，而且每天早上出门我可以闻到泥土的味道，就是像我们乡下那种味道，我特别喜欢就是小时候长大的那种感觉，你是不是看到这句话又会鄙视我？
 
 猫猫喜欢我养的小鱼🐟，也喜欢看着阳台外面的花，这一切在我心里，都是非常美好的画面，心情不好或者觉得压力很大的时候，这些就是我的解药。最最重要的之一，就是这一年我也毕业了，终终终于结束了我的学生生涯，按你的话来说就是26年了还没上过班。。顺利完成了我的博士答辩，在你的不断帮助下～（竟然反复向我确认我把你的名字加进了论文致谢？）我也不太顺利地入职了我现在的新工作，也非常幸运地刚毕业就成为了你梦想中的senior manager哈哈哈～不知道我升成associate director你是不是manager了？其实这周中我感觉我piss大老板off了，她和我说如果我是一个追求fame的人，那么bms不是一个非常好的environment，让我的心情一度非常沮丧。但是昨天她把我拉过去，猛夸了我一顿，可能也是意识到了那次我不太舒服了吧。总的来说，我还是算幸运的吧，遇到了你，也遇到了现在的同事们。
