@@ -7,11 +7,11 @@ tags: [documentation,sample]
 image: 2021-1.jpg
 ---
 
-![image](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2021-2.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2021-2.jpg)
 
-![image](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2021-3.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2021-3.jpg)
 
-![image](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2021-4.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2021-4.jpg)
 
 2021的我们，最重要的就是我们终于有了自己的家吧～你心心念念的townhouse终于在我们不屑努力下，连续看了好几个月的open house，在wayen的帮助下拿到了我们人生的第一个属于自己的castle哈哈哈。虽然图文有点不符，但是中间这几张是我们当时看的照片，也有我们最开始搬进去的照片，空空的，但是我们两个会一起把这个家再丰富丰富的～争取搞成别人家那样。。这个小区真的很漂亮，而且每天早上出门我可以闻到泥土的味道，就是像我们乡下那种味道，我特别喜欢就是小时候长大的那种感觉，你是不是看到这句话又会鄙视我？
 
