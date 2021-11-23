@@ -1,42 +1,13 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "2018关键词：巴哈马，生日"
+author: "爱你的🧍‍♂️"
 categories: documentation
 tags: [documentation,sample]
 image: 2018.jpg
+
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+看到这些照片，有没有瞬间把记忆拉回2018年的巴哈马🇧🇸！这个海岛实在是太好玩了，第一张图是酒店，天堂岛亚特兰蒂斯如此金碧辉煌，映衬的我们好像一只小土狗。。你非要坚持去玩那个全世界最高的水上滑滑梯，胆小的我站在旁边等了将近半个小时（你知道太阳多毒吗？）等你下来的一瞬间给你拍照，但是全程就听见你在疯狂尖叫，不知道你能不能从第二张照片里看到自己魂在后面飞。我们出海浮潜，吃海螺，吃炸生蚝，吃海鲜，真的是好好玩，海岛的生活如此美妙，但是如此短暂，还记得我们是10月31号当天出发，好像一晃就要飞回美国了。。中间合照留念～ 回来不久11月份你就要过生日了，25岁的小p孩，给你买个蛋糕点个蜡烛，也还算开心吧？哈哈。。
 
-## Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-## Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
-
-## More Jekyll!
-
-### Lagrange
-
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+最扯淡的是之前攒了好久的钱买到的钻戒，被你翻出来给戴上了。。然后你戴上的瞬间突然泪流不止，还打电话给amber说这个事，但是当时我觉得试一下尺寸对不对也没什么问题。。（但是尺寸竟然非常合适，也是非常神奇的一件事）我们两个真的是好蠢的感觉。。然后我心里也很不是滋味，我想要不要当时就趁那个机会把婚求了，但是我想了想，我不知道是不是自己还没准备好，还是当时不够有勇气，还是那种仪式感不是我心里计划的那样，我没有说出口，然后我还是乖乖把钻戒收起来了藏到一个你不知道的角落，哈哈。现在想想，婚姻一辈子也就只有一次，还是按照自己想要的样子来吧，那次就当是试试尺寸了～ 乖。
