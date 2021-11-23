@@ -7,11 +7,11 @@ tags: [sample]
 image: 2020-1.jpg
 ---
 
-![image](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2020-2.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2020-2.jpg)
 
-![2020-3](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2020-3.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2020-3.jpg)
 
-![2020-4](https://github.com/zachstarkup/zachstarkup.github.io/blob/main/assets/img/2020-4.jpg)
+![image](https://raw.githubusercontent.com/zachstarkup/zachstarkup.github.io/main/assets/img/2020-4.jpg)
 
 关于2020，我们的关键词应该第一个就是covid吧～ 2019年末到现在一晃都两年多了，时间实在是过的太快了。整个2020这一年，我们都是宅在家里直到差不多年末的时候，我们一起出去了一趟roadtrip为了消费掉你的hilton钻石会员卡，结果这个的垃圾程度超出我们想象哈哈哈。你还记得图里的那张但是还是看到了很好看的风景，摸到了很好玩的动物，玩了鸟🐦666。喵喵都不知不觉在covid中长大了，4岁多了，但是仿佛她来到我们家也就是昨天～这一年小伙伴们搬到我们老住址附近所以重聚了，还是经常会聚在一起喝酒，撸串，烧烤。当然不可少的，11月份你又又又过生日了，给你买了超级可爱的蛋糕～不知道你许了什么愿望，也不知道你把我放在第几位！
 
