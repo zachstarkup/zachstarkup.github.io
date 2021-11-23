@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "最后"
-author: "Paul Le"
+author: "爱你的🧍‍♂️"
 categories: facts
 tags: [sample]
 image: 2021-2.jpg
